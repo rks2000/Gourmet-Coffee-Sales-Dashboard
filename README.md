@@ -1,6 +1,6 @@
 # Gourmet Coffee Sales Dashboard
 
-![Project Image](https://github.com/rks2000/Gourmet-Coffee-Sales-Dashboard/blob/main/Png/Gourmet-Coffee-Sales-Dashboard-Project.png)
+![Project Image](https://raw.githubusercontent.com/rks2000/Gourmet-Coffee-Sales-Dashboard/main/Png/Gourmet-Coffee-Sales-Dashboard-Project.png)
 
 ## Overview
 
